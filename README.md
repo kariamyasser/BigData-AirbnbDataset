@@ -23,6 +23,5 @@ Madrid Airbnb Data
 ## Run
 #### Dependencies
 
-
 #### Run the Project
 R studio required
